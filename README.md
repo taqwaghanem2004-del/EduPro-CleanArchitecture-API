@@ -1,6 +1,6 @@
 ﻿# EduPro - Clean Architecture API
 
-Backend API for **EduPro**, an educational platform where users browse courses and collections, upload study files, and get AI-assisted answers and summaries about those files. Built as a graduation project, together with a teammate (Bayan Eid).
+Backend API for **EduPro**, an educational platform where users browse courses and collections, upload study files, and get AI-assisted answers and summaries about those files. Built as a graduation project, together with a teammate.
 
 ## Tech stack
 
@@ -46,3 +46,8 @@ dotnet run --project EduPro.Api
 
 - Real secrets are not stored in this repository. `appsettings.json` and uploaded files are git-ignored.
 - This is a clean snapshot of the project code. The original team repository is private.
+
+
+## My contribution
+
+I worked on all parts of the project, together with a teammate, across every layer of the solution (API, Core, Data, Infrastructure and Service).
